@@ -2,3 +2,6 @@
 Available in the AUR!
 - paru -S power-buttons
 - yay -S power-buttons
+
+
+Yes, i know. The way to install the package is pretty stupid
